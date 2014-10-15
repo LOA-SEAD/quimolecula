@@ -1063,7 +1063,7 @@ function debugKeyListeners(evt) {
 		var name = prompt("Nome do Composto");
 		var formula = prompt("Fórmula (formato exemplo: Etano é C_2_H_6_"); 
 		var dica = prompt("Dica");
-		strXml += "<?xml version='1.0' encoding='iso-8859-1'?>\n<molecule name='" + name + "'";
+		strXml += "<?xml version='1.0' encoding='utf-8'?>\n<molecule name='" + name + "'";
 		strXml += " formula = '" + formula + "'";
 		strXml += " dica = '" + dica + "'>\n";
 		
