@@ -1,3 +1,4 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Tutorial' formula = 'F�rmula'>
+<?xml version='1.0' encoding='utf-8'?>
+<molecule name='Tutorial' formula = 'Fórmula'
+dica='Clique no balão para o proximo passo'>
 </molecule>

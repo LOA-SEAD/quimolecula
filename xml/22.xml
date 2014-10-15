@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Benzeno' formula = 'C_6_H_6_'>
+<molecule name='Benzeno' formula = 'C_6_H_6_'
+          dica='Em química orgânica, um composto cíclico é um composto no qual uma série de átomos de carbono são conectados formando um laço ou anel.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

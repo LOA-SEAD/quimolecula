@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Metano' formula = 'CH_4_'>
+<?xml version='1.0' encoding='utf-8'?>
+<molecule name='Metano' formula = 'CH_4_'
+          dica='Hidrocarbonetos nos quais todas as ligações carbono-carbono são ligações simples, são chamados alcanos. (Solomons, p.110)'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='hidrogenio' number='-1'/>
 	<atom id='2' type='hidrogenio' number='-1'/>

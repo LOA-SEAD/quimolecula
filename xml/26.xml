@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Propanona' formula = 'C_3_H_6_O'>
+<molecule name='Propanona' formula = 'C_3_H_6_O'
+          dica='As cetonas são compostos orgânicos caracterizados pela presença do grupamento —C(=O)—, carbonila, ligado a dois radicais orgânicos. '>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

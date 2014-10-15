@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Dimetilamina' formula = 'C_2_H_7_N'>
+<molecule name='Dimetilamina' formula = 'C_2_H_7_N'
+          dica='Amina secundária- prefixo di. Amina terciária- prefixo tri. O sufixo do composto é “amina”.'>
 	<atom id='0' type='nitrogenio' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

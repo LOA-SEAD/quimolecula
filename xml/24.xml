@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Dimetilbenzeno' formula = 'C_8_H_10_'>
+<molecule name='Dimetilbenzeno' formula = 'C_8_H_10_'
+          dica='A única diferença entre os hidrocarbonetos de cadeia aberta e os de cadeia cíclica é a presença do prefixo “ciclo”.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

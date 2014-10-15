@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Etanodiamida' formula = 'C_2_H_4_O_2_N_2_'>
+<molecule name='Etanodiamida' formula = 'C_2_H_4_O_2_N_2_'
+          dica='As moléculas de amida, em geral, possuem caráter polar por apresentarem o grupo carbonilico. Assim, são solúveis em água, embora possam apresentar certa solubilidade em solventes orgânicos.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='oxigenio' number='-1'/>

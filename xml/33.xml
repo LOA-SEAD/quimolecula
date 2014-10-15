@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Metil - propilamina' formula = 'C_4_H_11_N'>
+<molecule name='Metil - n - propilamina' formula = 'C_4_H_11_N'
+          dica='Os aminoácidos- que são as estruturas das proteínas- contém sempre um grupo amino e um grupo  carboxilo.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

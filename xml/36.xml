@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Propionamida' formula = 'C_3_H_7_ON'>
+<molecule name='Propionamida' formula = 'C_3_H_7_ON'
+          dica='As amidas secundárias e cíclicas são chamadas imidas.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

@@ -1,4 +1,5 @@
-<molecule name='Difenil-dissulfeto' formula = 'C_12_H_10_S_2_'>
+<molecule name='Difenil-dissulfeto' formula = 'C_12_H_10_S_2_'
+          dica=''>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

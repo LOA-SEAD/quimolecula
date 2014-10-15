@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='N-4-hidroxifenil etanamida' formula = 'C_8_H_9_O_2_N'>
+<molecule name='N-4-hidroxifenil etanamida' formula = 'C_8_H_9_O_2_N'
+          dica=''>
 	<atom id='0' type='carbono' number='1'/>
 	<atom id='1' type='carbono' number='2'/>
 	<atom id='2' type='carbono' number='3'/>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Metanol' formula = 'CH_4_O'>
+<molecule name='Metanol' formula = 'CH_4_O'
+          dica='Todos os Alcoois (O-H) possuem em sua nomenclatura o sufixo OL, por ex: ButanOL.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='oxigenio' number='-1'/>
 	<atom id='2' type='hidrogenio' number='-1'/>

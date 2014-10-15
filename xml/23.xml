@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Metilbenzeno' formula = 'C_7_H_8_'>
+<molecule name='Metilbenzeno' formula = 'C_7_H_8_'
+          dica='Primeiramente denomina-se o nome do substituinte, depois se denomina a palavra benzeno.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

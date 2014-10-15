@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Eteno' formula = 'C_2_H_4_'>
+<molecule name='Eteno' formula = 'C_2_H_4_'
+          dica='O mais simples dos alcenos é o eteno (ou etileno), este se apresenta como um gás incolor, e insolúvel na água.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='hidrogenio' number='-1'/>

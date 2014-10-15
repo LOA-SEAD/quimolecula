@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Propeno' formula = 'C_3_H_6_'>
+<molecule name='Propeno' formula = 'C_3_H_6_'
+          dica='Alcenos até 4 Carbonos são gases à temperatura ambiente.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

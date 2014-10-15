@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Trimetilamina' formula = 'C_3_H_9_N'>
+<molecule name='Trimetilamina' formula = 'C_3_H_9_N'
+          dica='Existem aminas primárias, secundárias e terciárias. Ex: R—NH—R = amina secundária.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

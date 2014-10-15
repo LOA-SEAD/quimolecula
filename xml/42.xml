@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='1-bromo-3-iodobutano' formula = 'C_4_H_8_BrI'>
+<molecule name='1-bromo-3-iodobutano' formula = 'C_4_H_8_BrI'
+          dica=''>
 	<atom id='0' type='carbono' number='1'/>
 	<atom id='1' type='carbono' number='2'/>
 	<atom id='2' type='carbono' number='3'/>

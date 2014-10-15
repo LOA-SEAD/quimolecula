@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Etano' formula = 'C_2_H_6_'>
+<?xml version='1.0' encoding='utf-8'?>
+<molecule name='Etano' formula = 'C_2_H_6_'
+	      dica='Cada hidrocarboneto depende do seu composto para ter um nome específico segundo a IUPAC.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='hidrogenio' number='-1'/>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Butanona' formula = 'C_4_H_8_O'>
+<molecule name='Butanona' formula = 'C_4_H_8_O'
+          dica='A nomenclatura desses compostos é feita fundamentada na dos hidrocarbonetos, apenas trocando o sufixo "o" por "ona". '>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

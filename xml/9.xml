@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Etino' formula = 'C_2_H_2_'>
+<molecule name='Etino' formula = 'C_2_H_2_'
+          dica='Todos os Alcinos (triplas ligações) possuem em sua nomenclatura o infixo IN, por ex: ButINo.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='hidrogenio' number='-1'/>

@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Butano' formula = 'C_4_H_10_'>
+<?xml version='1.0' encoding='utf-8'?>
+<molecule name='Butano' formula = 'C_4_H_10_'
+          dica='Todos os Alcanos (ligações simples) possuem em sua nomenclatura o infixo AN, por ex: metANo.'>
 	<atom id='0' type='carbono' number='1'/>
 	<atom id='1' type='carbono' number='2'/>
 	<atom id='2' type='carbono' number='3'/>

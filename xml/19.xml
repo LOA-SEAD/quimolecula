@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Metanoato de Propila' formula = 'C_4_H_8_O_2_'>
+<molecule name='Metanoato de Propila' formula = 'C_4_H_8_O_2_'
+          dica='Para a nomenclatura dos ésteres, temos sempre o sufixo ATO + de + nome do radical.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

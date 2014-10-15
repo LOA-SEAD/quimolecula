@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Pentanamida' formula = 'C_5_H_11_ON'>
+<molecule name='Pentanamida' formula = 'C_5_H_11_ON'
+          dica='Amidas são caracterizadas pela molécula(NH3) e pela ligação direta do nitrogênio com um grupo carbonila (C=O).'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

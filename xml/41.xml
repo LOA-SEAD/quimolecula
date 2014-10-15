@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Dimetilfosfano' formula = 'C_2_H_7_P'>
+<molecule name='Dimetilfosfano' formula = 'C_2_H_7_P'
+          dica=''>
 	<atom id='0' type='fosforo' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

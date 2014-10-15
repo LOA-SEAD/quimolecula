@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Ácido tioacético' formula = 'C_2_H_4_OS'>
+<molecule name='Ácido tioacético' formula = 'C_2_H_4_OS'
+          dica=''>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='enxofre' number='-1'/>

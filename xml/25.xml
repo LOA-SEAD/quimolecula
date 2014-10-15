@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Ciclopropano' formula = 'C_3_H_6_'>
+<molecule name='Ciclopropano' formula = 'C_3_H_6_'
+          dica='Compostos aromáticos possuem um ou mais anéis benzênicos nos quais existem ligações simples e duplas alternadamente.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='carbono' number='-1'/>

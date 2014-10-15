@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='�ter dimet�lico' formula = 'C_2_H_6_O'>
+<molecule name='Metóximetano' formula = 'C_2_H_6_O'
+          dica='Todos os Éteres (C-O-C) possuem em sua nomenclatura o sufixo “Oxi ” seguido da segunda palavra com sufixo “ano” por ex: Ex.: metoxietano.'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='hidrogenio' number='-1'/>

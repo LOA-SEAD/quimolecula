@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
-<molecule name='Etanol' formula = 'C_2_H_6_O'>
+<molecule name='Etanol' formula = 'C_2_H_6_O'
+          dica='Os alcoóis são compostos cujas moléculas têm um grupo hidroxila ligado a um átomo de carbono saturado. (Solomons p. 405)'>
 	<atom id='0' type='carbono' number='-1'/>
 	<atom id='1' type='carbono' number='-1'/>
 	<atom id='2' type='hidrogenio' number='-1'/>
