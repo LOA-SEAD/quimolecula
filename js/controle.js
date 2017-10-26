@@ -4,7 +4,7 @@
 function criarPalco() {
 	var pai = $('#ancora').parent();
 	$('<div>').attr("id", "palco").appendTo(pai);
-	nivel = 1;
+	nivel = 0;
 	criarMenu();
 }
 
